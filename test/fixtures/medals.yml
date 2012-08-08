@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  country: MyString
+  gold: 
+  silver: 
+  bronze: 
+  total: 
+
+two:
+  country: MyString
+  gold: 
+  silver: 
+  bronze: 
+  total: 
